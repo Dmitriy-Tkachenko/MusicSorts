@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Music Sorts</string>
+    <string name="add_music">Add music</string>
+    <string name="text_welcome">Добавьте музыку</string>
+    <string name="play_music">Воспроизведение</string>
+    <string name="pause_music">Пауза</string>
+    <string name="my_music">Моя музыка</string>
+</resources>
